@@ -2,7 +2,7 @@
 
 ## Example Projects
 
-#### _Javascript_
+#### ```Javascript```
 
 * "Shape Tracker" to demonstrate how to use TDD with Jest:
   * [ShapeTracker](https://github.com/epicodus-lessons/section-5-shape-tracker)
@@ -11,10 +11,14 @@
   * [Galactic Age Calculator](https://github.com/ChrisKLoveless/Galactic-Age-Calculator.git)
 
 
+## Process Maps
+* [LucidChart](https://www.lucidchart.com/pages/landing/process-map-software?utm_source=google&utm_medium=cpc&utm_campaign=_chart_en_us_desktop_search_nb_pmax_&km_CPC_CampaignId=18274025163&km_CPC_AdGroupID=&km_CPC_Keyword=&km_CPC_MatchType=&km_CPC_ExtensionID=&km_CPC_Network=x&km_CPC_AdPosition=&km_CPC_Creative=&km_CPC_TargetID=&km_CPC_Country=9032827&km_CPC_Device=c&km_CPC_placement=&km_CPC_target=&gclid=Cj0KCQiAic6eBhCoARIsANlox84FdUxH2nL4wNaT4DLVSEPbNJjLFrhLP2cEQHHK1jAd5w2L3cKIGIwaArMjEALw_wcB)
+* 
+* [Figma](https://www.figma.com/templates/process-map-template/)
 
 ## LHTP Lesson Links
 
-#### _Testing with TDD and Jest_
+#### ```Testing with TDD and Jest```
 
 * The following lessons review ```TDD``` and how to set up Jest and Babel:
   * [TDD Review](https://www.learnhowtoprogram.com/intermediate-javascript/test-driven-development-and-environments-with-javascript/tdd-review)
@@ -35,7 +39,7 @@
   * [npm page for eslint-plugin-fp](https://www.npmjs.com/package/eslint-plugin-fp)
   * [GitHub page for eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp)
 
-#### _Node, webpack, and npm_
+#### ```Node, webpack, and npm```
 
 * Installing ```node.js``` on Mac or Windows
   * [Installing node.js](https://www.learnhowtoprogram.com/intermediate-javascript/setting-up-javascript/installing-node-js)
