@@ -14,7 +14,7 @@ return num + 1;
 ```
 * A result isn't pure if you can get different results from the same input. 
 
-### ```Fisrt Class Citizens (Functions)```
+### ```First Class Citizens (Functions)```
 * Very loosely, this just means we can use a function in the same way we use a variable.
 
 ### ```Functions returning functions```
