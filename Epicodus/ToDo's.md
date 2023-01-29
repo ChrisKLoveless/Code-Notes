@@ -1,6 +1,11 @@
 # To Do List
 
+### General
+-----------
+* Update porfolio
+* 
 ### Career Services
+------------------
 
 * Keep track of job and internship applications on sheet in google drive.
   
@@ -15,6 +20,22 @@
 #### ```Requirements for Epicodus Internship```
 * Have a mentor.
 * 30-40 hours per week. 
+
+### Capstone
+-------------
+
+* Due date for Project Sign-up &rarr; Start of ```React with Redux```
+* Capstone Proposal &rarr; Part of ```React with Redux Code Review```
+* Trade Show &rarr; Very last day of class
+
+#### Project Ideas
+
+* Learning app for Autism
+* Esports tracking app 
+* Cat facebook (social, commerce, health)
+* Workout design app 
+* Calorie tracking app 
+* 
 
 
 
