@@ -118,6 +118,13 @@ const filteredArray = numArray.filter(e => e > 10);
 
 ### ```Recursion```
 * Functions that call themselves. Great way to replace a for or forEach loop in a problem and impress during whiteboard interviews. They shoudl always include a `base case` and `termination case`.
+* Make sure to always ```return``` the recursive function after each branch.
+
+### ```Testing```
+* Using Jest and Babel for testing.
+* Importing multiple functions to one test suite.
+  * [link](https://www.softwaretestinghelp.com/jest-testing-tutorial/)   
+
 
 
 

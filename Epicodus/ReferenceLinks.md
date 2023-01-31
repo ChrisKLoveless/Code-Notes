@@ -21,9 +21,14 @@
 
 ## ```LHTP Lesson Links```
 ------------------------
+#### ```Node, webpack, and npm```
+
+* Installing ```node.js``` on Mac or Windows
+  * [Installing node.js](https://www.learnhowtoprogram.com/intermediate-javascript/setting-up-javascript/installing-node-js)
+  * [Using node.js as a REPL](https://www.learnhowtoprogram.com/react/functional-programming-with-javascript/using-node-in-the-command-line)
+  * [Creating package.json with npm](https://www.learnhowtoprogram.com/intermediate-javascript/test-driven-development-and-environments-with-javascript/creating-a-package-json-with-npm)
 
 #### ```Testing with TDD and Jest```
-
 
 * The following lessons review ```TDD``` and how to set up Jest and Babel:
   * [TDD Review](https://www.learnhowtoprogram.com/intermediate-javascript/test-driven-development-and-environments-with-javascript/tdd-review)
@@ -44,11 +49,4 @@
   * [npm page for eslint-plugin-fp](https://www.npmjs.com/package/eslint-plugin-fp)
   * [GitHub page for eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp)
 
-#### ```Node, webpack, and npm```
-
-
-* Installing ```node.js``` on Mac or Windows
-  * [Installing node.js](https://www.learnhowtoprogram.com/intermediate-javascript/setting-up-javascript/installing-node-js)
-  * [Using node.js as a REPL](https://www.learnhowtoprogram.com/react/functional-programming-with-javascript/using-node-in-the-command-line)
-  * [Creating package.json with npm](https://www.learnhowtoprogram.com/intermediate-javascript/test-driven-development-and-environments-with-javascript/creating-a-package-json-with-npm)
 
