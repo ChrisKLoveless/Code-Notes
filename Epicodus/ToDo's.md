@@ -4,6 +4,7 @@
 -----------
 * Update porfolio
 * Install Grepper extension for more efficient google searches.
+* look up linkedIn course for 'Docker for developers'
 
 extensions to look into:
 1. Adblock
@@ -11,6 +12,8 @@ extensions to look into:
 3. Scribe
 4. ClickUp
 5. Click&Clean
+
+
 ### Career Services
 ------------------
 

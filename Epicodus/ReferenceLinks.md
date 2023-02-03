@@ -19,6 +19,10 @@
 * [Figma](https://www.figma.com/templates/process-map-template/)
 
 
+## ```Text Editors (Non VSCode)```
+----------------------------
+* [Code Share](https://chriskloveless.github.io/Portfolio/)
+
 ## ```LHTP Lesson Links```
 ------------------------
 #### ```Node, webpack, and npm```
