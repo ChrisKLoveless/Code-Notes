@@ -6,7 +6,7 @@
 
 * Reference [link](https://github.com/ChrisKLoveless/plants)
 * Use to create DOM elements 
-```
+```JS
 export function createPlantElements(plantObject) {
   const thisPlant = $(
   <div>
