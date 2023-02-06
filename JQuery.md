@@ -16,7 +16,7 @@ export function createPlantElements(plantObject) {
 }
 ```
 * Query the DOM (use back-ticks)
-```
+```JS
 $(`Here is a string with an ${element/value}`)
 ```
 Useful Methods

@@ -35,18 +35,27 @@ extensions to look into:
 ### Capstone
 -------------
 
-* Due date for Project Sign-up &rarr; Start of `React with Redux`
+* Due date for Project Sign-up &rarr; Start of `Week 17 React with Redux`
+  
 * Capstone Proposal &rarr; Part of `React with Redux Code Review`
+  
+  * [Proposal template](https://www.learnhowtoprogram.com/react/react-fundamentals/independent-capstone-project-sign-up-and-proposal)
+
 * Trade Show &rarr; Very last day of class
 
 #### Project Ideas
 
-* Learning app for Autism
-* Esports tracking app 
-* Cat facebook (social, commerce, health)
-* Workout design app 
-* Calorie tracking app 
-* 
+* Portfolio? (improve personal portfilio as capstone?)
+  
+* Learning app for Autism (social skills, parent lesson creation, "red/green/reinforce")
+  
+* Esports tracking app (Tracking, reporting, news)
+  
+* Cat facebook (Primary [buy, sell, trade] Secondary [social, health])
+  
+* Workout design app (Creating, Tracking, Timing, Measuring)
+  
+* Calorie tracking app (Input food and calc calories, set goals, and schedule diet)
 
 
 

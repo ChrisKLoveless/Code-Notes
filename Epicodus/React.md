@@ -133,15 +133,133 @@ const filteredArray = numArray.filter(e => e > 10);
 ### `JSX`
 React uses a special syntax called JSX that allows developers to mix HTML with JavaScript. While not mandatory, developers report that JSX makes developing in React much easier. Nearly all React applications use JSX syntax. We'll use JSX, too.
 
-### `create-react-app`
+### `CLI create-react-app`
 
 * Creates a boilerplate React app 
 * $ npx create-react-app [File Name]
 
 ### `React Components`
 Components are the building blocks for React. Everything in a React app is a component.
+When adding react components always import React and export the component so that it is available across the app.
 
-* A Functional component is a function that returns code stored inside the div.
+* A Functional Component is a function that returns code stored inside the div.
+  * `import` React from "react";
+  * `export` default ThisIsAFunctionalComponent;
+  * All the code in a function components' return must be within a single element (<div> or <React.Fragment>)
+
+* A Class Component is used when we need to add state to a component(make a class).
+  * `import` React, { Component } from 'react';
+  * `export `default ThisIsAClassComponent;
+  * A component that extends the base functionality of a `Component` class that React provides.
+  * They have a constructor which taks `props` as an argument.
+  * They always have a `render` method.
+
+### `props`
+Props are just arguments that can be passed down from parent JSX elements (<ParentComponent [props]/>) and accessed through dot notation in child JSX elements. (<ChildComponent {props.name}/>). Remember to add `props` as an argument in the child components' function.
+
+### `propTypes`
+
+* [PropTypes Library Documentation](https://github.com/facebook/prop-types)
+
+* When we declare PropTypes, we will always do so with the following format:
+```JS
+Ticket.propTypes = {
+  names: PropTypes.string,
+  location: PropTypes.string,
+  issue: PropTypes.string
+};
+```
+* Each prop inside the object literal is declared like this:
+```JS
+propertyName: PropTypes.propertyType
+```
+* Common propTypes:
+```JS
+MyExampleComponent.propTypes = {
+  exampleArray: PropTypes.array,
+  exampleBoolean: PropTypes.bool,
+  exampleFunction: PropTypes.func,
+  exampleNumber: PropTypes.number,
+  exampleObject: PropTypes.object,
+  exampleString: PropTypes.string,
+  exampleSymbol: PropTypes.symbol,
+  exampleReactElement: PropTypes.element,
+  //more complex property declarations
+  exampleArrayOfNumbers: PropTypes.arrayOf(PropTypes.number),
+ exampleArrayOfStrings: PropTypes.arrayOf(PropTypes.string),
+ exampleClassTypeProp: PropTypes.instanceOf(ExampleClassName),
+}
+```
+## `Looping in JSX`
+
+* Use the `map()` function for loops.
+```JS
+...
+   return (
+      <React.Fragment>
+        <hr/>
+        {mainTicketList.map((ticket, index) =>
+          <Ticket names={ticket.names}
+            location={ticket.location}
+            issue={ticket.issue}
+            key={index}/>
+        )}
+      </React.Fragment>
+    );
+...
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
