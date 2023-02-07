@@ -208,6 +208,38 @@ MyExampleComponent.propTypes = {
     );
 ...
 ```
+## `State`
+State is anything in the application that we need to store or change. State is fluid and ever-changing, props are not.
+
+* Only define a component as a class if it _absolutely_ `requires` state.
+
+* `Local State`
+Local state lives in a single component and is never used in other components.
+
+* `Shared State`
+Shared state is shared by multiple components. This can get complicated very quickly.
+`shared state should be lifted to the lowest common ancestor for all the components that need that state.`
+common ancestor is likely the parent components of sibling elements. State is defined in the constructor of a class component.
+
+* update state
+```JS
+this.setState({property: update})
+```
+&uarr; &uarr; &uarr;
+Allows the component to re-render when the state is updated.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
