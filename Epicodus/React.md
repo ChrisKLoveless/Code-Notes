@@ -228,6 +228,29 @@ this.setState({property: update})
 &uarr; &uarr; &uarr;
 Allows the component to re-render when the state is updated.
 
+## `UUID`
+Js library that assigns unique id's.
+* To use the UUID library with create-react-app, we just need to import the following in the file that needs to generate UUIDs:
+```JS
+import { v4 } from "uuid";
+```
+The `v4()` function automatically generates a UUID
+
+## `Submitting Form and Unidirectional data flow with CallBacks`
+
+* use `onSubmit()` function.
+* Make sure to prevent the default behavior.
+
+Unidirectional data flow means that data is only traveling in one direction. Parent components pass data down to child components. We need to use callbacks to pass data from child to parent component.
+
+1. Create method in parent component. This method will take any form data and pass this function as a prop.
+2. Pass method down to child as a prop
+3. Add method to existing function of child component
+
+* Example link [link](https://www.learnhowtoprogram.com/react/react-fundamentals/passing-data-via-callbacks)
+
+
+
 
 
 
