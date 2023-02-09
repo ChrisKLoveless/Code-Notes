@@ -2,23 +2,24 @@
 
 ### General
 -----------
-* Update porfolio
-* Install Grepper extension for more efficient google searches.
+* Update portfolio
 * look up linkedIn course for 'Docker for developers'
 * Prep for internship interviews
 
-extensions to look into:
+### Chrome extensions to look into:
 1. Adblock
 2. Power Thesaurus
 3. Scribe
 4. ClickUp
 5. Click&Clean
+6. Install Grepper extension for more efficient google searches.
 
 
 ### Career Services
 ------------------
 
-* Keep track of job and internship applications on sheet in google drive.
+* Keep track of job and internship applications.
+  * [Tracker Sheet Here](https://docs.google.com/spreadsheets/d/1uEuSp90gT-7ShAjlSyf4zHQPC7piXnYIlIRACCxsReY/edit#gid=0)
   
 * `9` Applications by week `19`
   
@@ -36,6 +37,8 @@ extensions to look into:
 -------------
 
 * Due date for Project Sign-up &rarr; Start of `Week 17 React with Redux`
+* [Sign-up Sheet](https://docs.google.com/spreadsheets/d/1rBs1ynep7pr5hNEIffnu3jcituhI4ITxIAWevopPyvQ/edit#gid=149223407)
+
   
 * Capstone Proposal &rarr; Part of `React with Redux Code Review`
   
@@ -45,11 +48,11 @@ extensions to look into:
 
 #### Project Ideas
 
-* Portfolio? (improve personal portfilio as capstone?)
+* Portfolio? (improve personal portfolio as capstone?)
   
 * Learning app for Autism (social skills, parent lesson creation, "red/green/reinforce")
   
-* Esports tracking app (Tracking, reporting, news)
+* E-sports tracking app (Tracking, reporting, news)
   
 * Cat facebook (Primary [buy, sell, trade] Secondary [social, health])
   

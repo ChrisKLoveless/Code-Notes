@@ -3,6 +3,14 @@
 ## PowerPoints
 * [Epicodus Career Services Master PowerPoint](https://docs.google.com/presentation/d/1PZE0OMnYMEK7b3babofYeS-4S7flGT8U49Y9b_COBk4/)
 
+## Job Search Resources
+* [Tech Interview Prep for React](https://www.learnhowtoprogram.com/react/react-fundamentals/technical-interview-preparation-react-fundamentals)
+* [Follow up during application process](https://www.learnhowtoprogram.com/react/react-fundamentals/following-up-during-the-job-application-process)
+* [Cold Emailing](https://www.learnhowtoprogram.com/react/react-fundamentals/expand-your-job-search-network-through-cold-emailing)
+* [Tools for email management](https://www.learnhowtoprogram.com/react/react-fundamentals/tools-for-email-management)
+
+
+
 ## YT Channels
 * [Kevin Powell | CSS, HTML](https://www.youtube.com/kevinpowell)
 
