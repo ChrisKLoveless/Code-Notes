@@ -27,3 +27,6 @@ Objects can publish updates to the store and dependents can subscribe to changes
 
 ### Bindings
 `Bindings` are libraries that help two languages, tools, or technologies integrate with one another. They usually do this by "wrapping" logic and functionality from one technology into functions that are easier to call in the second technology.
+
+### Higher-order Components
+This is a common term in React. A higher-order component is a function that takes an existing component, wraps it with additional functionality, and then returns it so it can be used elsewhere in an application. `connect()` is an example.

@@ -60,6 +60,13 @@
   
 * Calorie tracking app (Input food and calc calories, set goals, and schedule diet)
 
+* Sleep tracking and logging app
+
+* E-commerce site (cat related)
+
+
+* Catalogue site (wine, music)
+
 
 
 
