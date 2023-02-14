@@ -48,24 +48,8 @@
 
 #### Project Ideas
 
-* Portfolio? (improve personal portfolio as capstone?)
-  
-* Learning app for Autism (social skills, parent lesson creation, "red/green/reinforce")
-  
-* E-sports tracking app (Tracking, reporting, news)
-  
-* Cat facebook (Primary [buy, sell, trade] Secondary [social, health])
-  
 * Workout design app (Creating, Tracking, Timing, Measuring)
-  
-* Calorie tracking app (Input food and calc calories, set goals, and schedule diet)
-
-* Sleep tracking and logging app
-
-* E-commerce site (cat related)
-
-
-* Catalogue site (wine, music)
+Take survey to get a curated workout, create your own workouts, log progress, schedule feature?, 
 
 
 
