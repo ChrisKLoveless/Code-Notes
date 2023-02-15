@@ -62,3 +62,5 @@
   * [GitHub page for eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp)
 
 
+## Hosting a React Project with GH-Pages
+[Hosting a React Project with GH-Pages](https://www.learnhowtoprogram.com/react/react-with-redux/hosting-a-react-project-with-gh-pages)
