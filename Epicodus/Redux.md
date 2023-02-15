@@ -87,11 +87,20 @@ OR
 
 formatDistanceToNow(new Date());  //omit the suffix property
 ```
+
 [docs](https://date-fns.org/docs/Getting-Started)
 
 
-### Life Cycle Method
+### Lifecycle Method
 The React lifecycle is a series of methods that is always called in a certain order. We can use these lifecycle methods to call our own methods at a very specific time during a component's lifecycle. We've actually used the most common lifecycle methods before: constructor() and render(). The order of these functions matters and should be called after the constructor in a class component.
+* Most used lifecycle methods
+```
+constructor(): Called when a state-based component is instantiated;
+render(): Called both when a component is being loaded and also when it's updated;
+componentDidMount(): Called when a component has finished updating the DOM;
+componentDidUpdate(): Called immediately after a component updates;
+componentWillUnmount(); Called right before a component is unmounted and destroyed.
+```
 
 
 
