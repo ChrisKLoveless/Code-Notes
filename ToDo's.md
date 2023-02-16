@@ -36,7 +36,7 @@
 -------------
 
 * Capstone Proposal &rarr; Part of `React with Redux Code Review`
-* Make sure to keep a log of progress with time stamps in README.
+* Make sure for each commit (every hour minimum) to keep a log of progress with time stamps in README.
   
   * [Proposal template](https://www.learnhowtoprogram.com/react/react-fundamentals/independent-capstone-project-sign-up-and-proposal)
 
