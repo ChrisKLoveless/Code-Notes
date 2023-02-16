@@ -23,11 +23,10 @@
   
 * `9` Applications by week `19`
   
-* Meeting with Advisor `Thu, Feb 9 @ 2:30pm` (Resume and Cover Letter).
-  
-* Email/Text for information of job and `internship opportunities.`
+* Email/Text for information of job and `internship/job opportunities.`
   * Devin, Uncle Nick, Carly?, Amy, Austin
   * Deadline for outside internship is **_Wednesday of week 17_**.
+* Email Cameron about Seagull Scientific and Internship deadline 
 
 #### `Requirements for Epicodus Internship`
 * Have a mentor.
@@ -36,11 +35,8 @@
 ### Capstone
 -------------
 
-* Due date for Project Sign-up &rarr; Start of `Week 17 React with Redux`
-* [Sign-up Sheet](https://docs.google.com/spreadsheets/d/1rBs1ynep7pr5hNEIffnu3jcituhI4ITxIAWevopPyvQ/edit#gid=149223407)
-
-  
 * Capstone Proposal &rarr; Part of `React with Redux Code Review`
+* Make sure to keep a log of progress with time stamps in README.
   
   * [Proposal template](https://www.learnhowtoprogram.com/react/react-fundamentals/independent-capstone-project-sign-up-and-proposal)
 
@@ -49,7 +45,10 @@
 #### Project Ideas
 
 * Workout design app (Creating, Tracking, Timing, Measuring)
-Take survey to get a curated workout, create your own workouts, log progress, schedule feature?, 
+Take survey to get a curated workout, create your own workouts, log progress, schedule feature?
+React front end and a C# back end? Research libraries.
+
+
 
 
 
