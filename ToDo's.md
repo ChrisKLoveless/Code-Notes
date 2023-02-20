@@ -48,7 +48,8 @@
 Take survey to get a curated workout, create your own workouts, log progress, schedule feature?
 React front end and a C# back end? Research libraries.
 
-
+* Use Firebase? [Adding Firebase to React](https://www.learnhowtoprogram.com/react/react-with-nosql/adding-firebase-to-react)
+[Bindings for Firebase and React](https://github.com/FirebaseExtended/reactfire)
 
 
 

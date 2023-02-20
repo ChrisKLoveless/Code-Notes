@@ -9,7 +9,8 @@
 * [Cold Emailing](https://www.learnhowtoprogram.com/react/react-fundamentals/expand-your-job-search-network-through-cold-emailing)
 * [Tools for email management](https://www.learnhowtoprogram.com/react/react-fundamentals/tools-for-email-management)
 
-
+## Job Boards and Meet ups
+[here](https://www.learnhowtoprogram.com/internship-and-job-search/applying-for-internships-and-jobs/job-boards)
 
 ## YT Channels
 * [Kevin Powell | CSS, HTML](https://www.youtube.com/kevinpowell)
