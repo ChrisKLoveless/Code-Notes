@@ -22,5 +22,5 @@
 
 
 ### [Hunter.io](https://hunter.io/)
-* Cold emailing upportunities.
+* Cold emailing opportunities.
 * Use a signature that includes LinkedIn and GitHub.
