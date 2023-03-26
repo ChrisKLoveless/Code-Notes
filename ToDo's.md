@@ -16,14 +16,8 @@
 
 
 ### Career Services
-------------------
-
-* Final CR Due Friday, March 24th
-  * 5 more job apps and submit tracker on Epicenter
-
-#### `Requirements for Epicodus Internship`
-* Have a mentor.
-* 30-40 hours per week. 
+-----------------
+Complete Internship and continue applying to jobs each day. 
 
 
 #### Project Ideas
@@ -42,8 +36,11 @@
   2. Steam wishlist app
   3. Esports event calendar
 * React Native Mobile app
+  1. Simple Game 
+  2. Mobile landing page for a complex business
+  3. E-Commerce platform to sell things online
 
-
+* Web Scrapper for products and sales 
 
 
 
