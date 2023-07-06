@@ -3,3 +3,7 @@
    1. Sign up for AWS [credentials](https://aws.amazon.com/free)
    2. Create an Identity and Access Management (IAM) user account and configure permissions.
    3. Download and install the Toolkit for VSCode
+   4. Add IAM profile to connect to VSCode
+   
+
+`This activity seems outdated, switch to free udemy course `
