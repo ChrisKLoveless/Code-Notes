@@ -1,10 +1,8 @@
 # To Do List
-
-### General
 -----------
 * Update portfolio
 * look up linkedIn course for 'Docker for developers'
-* Prep for internship (placement by March 23rd)
+* AWS zero to hero course 1 hour per day
 
 ### Chrome extensions to look into:
 1. Adblock
@@ -17,7 +15,7 @@
 
 ### Career Services
 -----------------
-Complete Internship and continue applying to jobs each day. 
+Email Cameron about resources and meetups. Maybe send new resume for notes.  
 
 
 #### Project Ideas
