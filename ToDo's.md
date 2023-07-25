@@ -1,8 +1,7 @@
-# To Do List
+# General To Do List
 -----------
-* Update portfolio
-* look up linkedIn course for 'Docker for developers'
-* AWS zero to hero course 1 hour per day
+* CS Course 2 hours per day
+* Job apps 2-3 hours per day
 
 ### Chrome extensions to look into:
 1. Adblock
@@ -13,9 +12,9 @@
 6. Install Grepper extension for more efficient google searches.
 
 
-### Career Services
+### Career Services To Do's
 -----------------
-Email Cameron about resources and meetups. Maybe send new resume for notes.  
+Email Cameron about resources and meetups. Send new resume for notes.  
 
 
 #### Project Ideas
